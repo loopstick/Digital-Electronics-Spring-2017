@@ -15,6 +15,7 @@ This repository contains everything regarding this course such as syllabus, home
 - Introductions
 - Interests and goals
 - Shopping list
+  - Arduino, breadboard, jumper wires, USB cable
 - Hands-on activity: basic arduino install and introduction, tone
 - Resources:  (move all resources to one resources page)
 - Homework:
@@ -46,29 +47,33 @@ This repository contains everything regarding this course such as syllabus, home
 
 ###Week 7: Thursday, March 2, 2017
 - Demonstration: Fritzing, Othermill
+- Midterm Evaluations (2/20-3/3)
 
 ###Week 8: Thursday, March 9, 2017
-- Hands-on activity: Construction Techniques
-- Project assignments
+- Hands-on activity: 
+	- Electronic Construction techniques
+- Homework
+	- Final project proposals
 
 ###Week 9: Thursday, March 16, 2017
-- Critique Proposals
-- Start working: Research, mock-ups, testing ideas and concepts
+- Critique proposals
+- Start working: Research, mock-ups, test ideas and concepts
 
 ###Spring Break: Thursday, March 22, 2017
-- Research, mock-ups, testing ideas and concepts
+- Research, build mock-ups, test ideas and concepts
 
 ###Week 10: Thursday, March 30, 2017
-- Work: test, iterate
+- Work: test, repair, iterate
 - Homework: __Working__ mock-up by next week
 
 ###Week 11: Thursday, April 6, 2017
-- Critique Working mock-up 
+- Critique working mock-up 
+- Lecture: Minimal Viable Project (MVP)
+- Debug and refine mockup, start on prototype
+- Homework: __Working__ minimal viable project due week 13
 
 ###Week 12: Thursday, April 13, 2017
--	Passover
-- work week
-- Homework: __Working__ minimal viable project by next week
+	-	Passover: work week
 
 ###Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project
@@ -78,7 +83,6 @@ This repository contains everything regarding this course such as syllabus, home
 - Final project critique
 
 ###Week 15: Thursday, May 4, 2017
-
-No class;  End of Year Reviews for Year Zero and Year One
+- No class;  End of Year Reviews for Year Zero and Year One
 
 Interface show, Saturday May 6th
