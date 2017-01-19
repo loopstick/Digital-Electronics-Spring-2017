@@ -11,8 +11,9 @@
 	* And at other times by appointment
 
 ####Goals
-My goal is to teach you how to design, build, and debug mechatronic devices. 
-I want to make the course as interesting and relevant as possible for you, 
+The goal of this class 
+is to teach you how to design, build, and debug digital electronic devices. 
+My goal is to make the course as interesting and relevant as possible for you, 
 so please ask questions and bring up topics you are curious about.
 
 ####Github and Class Repository
@@ -138,9 +139,7 @@ Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
 fees, but do so immediately so we have the equipment on hand.
 
-Remember that Noam gave us
-a code that might be good for 10% educational discount at Adafruit. The
-code is ADAEDU
+The code ADAEDU may be good for 10% educational discount at Adafruit. 
 
 Local stores that should carry all these are:
 * [Jameco](www.jameco.com) in Belmont, just south of the SFO airport
@@ -184,11 +183,14 @@ The schedule is subject to change
 	- Making sounds with Tone
 - Resources:  (move all resources to one resources page)
 - Homework:
-	- 
+	- If you did not use your own laptop in class, duplicate what we did
+		in class. If you do not have your own Arduino and other items, you
+		may check out the equipment from the Hybrid Lab, either to take home or
+		use in the lab.
 	- Order the required equipment to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3.
 	- Create your Github repository using 
-	[this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
+	[this guide](https://github.com/zamfi/github-guide)
 	and email me the URL to your repository
 
 ###Week 2: Thursday, January 26, 2017
