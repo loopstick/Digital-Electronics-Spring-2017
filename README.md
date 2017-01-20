@@ -191,7 +191,7 @@ The schedule is subject to change
 	- Making sounds with Tone
 - Resources:  (move all resources to one resources page)
 
-#### current homework assignment
+#### Current Homework Assignment
 - Review the Basic Arduino
 	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	we did in class. 
