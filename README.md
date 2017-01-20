@@ -193,7 +193,7 @@ The schedule is subject to change
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 		we did in class. 
 		- Read the entire document
-		- Do the section titled analogWrite(): _Controlling speed or brightness_
+		- Do the section titled _analogWrite(): Controlling speed or brightness_
 			which we did not do in class. 
 			You may check out any equipment you need from the Hybrid Lab, 
 			either to take home or use in the lab.
