@@ -190,6 +190,7 @@ The schedule is subject to change
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Making sounds with Tone
 - Resources:  (move all resources to one resources page)
+
 # Current Homework
 # current homework assignment
 - Homework:
