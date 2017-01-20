@@ -1,7 +1,7 @@
 # Digital-Electronics-Spring-2017
 ##Digital Electronics at California College of the Arts, Spring 2017 
 
-[Current homework assignment](#current-homework)
+[Current homework assignment](#current-homework-assignment)
 
 ###Syllabus
 
@@ -190,7 +190,8 @@ The schedule is subject to change
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Making sounds with Tone
 - Resources:  (move all resources to one resources page)
-### Current Homework
+# Current Homework
+# current homework assignment
 - Homework:
 	- Review the Basic Arduino
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
