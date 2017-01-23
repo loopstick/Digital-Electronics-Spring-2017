@@ -1,6 +1,8 @@
 # Digital-Electronics-Spring-2017
 ##Digital Electronics at California College of the Arts, Spring 2017 
 
+[Current Homework Assignment](#current-homework-assignment)
+
 ###Syllabus
 
 * Title: Mechatronics (Graduate Design)
@@ -141,6 +143,12 @@ fees, but do so immediately so we have the equipment on hand.
 
 The code ADAEDU may be good for 10% educational discount at Adafruit. 
 
+You can get items shipped to CCA. The shipping address is:
+
+California College of the Arts  
+1111 Eighth Street  
+San Francisco, CA 94107  
+
 Local stores that should carry all these are:
 * [Jameco](www.jameco.com) in Belmont, just south of the SFO airport
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
@@ -182,16 +190,22 @@ The schedule is subject to change
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Making sounds with Tone
 - Resources:  (move all resources to one resources page)
-- Homework:
-	- If you did not use your own laptop in class, duplicate what we did
-		in class. If you do not have your own Arduino and other items, you
-		may check out the equipment from the Hybrid Lab, either to take home or
-		use in the lab.
-	- Order the required equipment to arrive no later than Friday January 27 so
-		that you can complete the homework for week 3.
-	- Create your Github repository using 
-	[this guide](https://github.com/zamfi/github-guide)
-	and email me the URL to your repository
+
+#### current homework assignment
+
+- Review the Basic Arduino
+	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	we did in class. 
+	- Read the entire document
+	- Do the section titled _analogWrite(): Controlling speed or brightness_
+		which we did not do in class. 
+		You may check out any equipment you need from the Hybrid Lab, 
+		either to take home or use in the lab.
+- Order the required equipment to arrive no later than Friday January 27 so
+	that you can complete the homework for week 3.
+- Create your Github repository using 
+[this guide](https://github.com/zamfi/github-guide)
+and email me the URL to your repository
 
 ###Week 2: Thursday, January 26, 2017
 - Parts needed: LDR, speaker, eg lm386 
