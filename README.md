@@ -275,6 +275,6 @@ Interface show, Saturday May 6th
 
 ## Student Repositories
 
-[Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)
-[Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)
+[Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)  
+[Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)  
 
