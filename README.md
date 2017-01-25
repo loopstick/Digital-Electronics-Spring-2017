@@ -189,7 +189,8 @@ The schedule is subject to change
 	- Basic Arduino
 		(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Making sounds with Tone
-- Resources:  (move all resources to one resources page)
+- Resources: See the Arduino resources
+	[here](https://github.com/michaelshiloh/resourcesForClasses)
 
 #### current homework assignment
 
