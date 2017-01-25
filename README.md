@@ -209,7 +209,22 @@ The schedule is subject to change
 and email me the URL to your repository
 
 ###Week 2: Thursday, January 26, 2017
-- Parts needed: LDR, speaker, eg lm386 
+- Review schedule
+- Github
+	- How to upload a file to Github
+		- Click on "Upload files"
+	- How to create a folder in Github
+		Git doesn't store empty folders, so you can only create a new folder when
+		you have a file to put in it. Also, you can't create a folder
+		when you upload a file. The only way to do this is to create a _new_
+		file, and then to paste the contents of your file into the new file:
+		1. Go to the folder inside which you want to create another folder.
+		2. Click on _Create new file_.
+		3. On the text field for the file name, first write the folder name you
+			 want to create, then type _/_ (which creates the new folder) and then
+			 the name of the new file you want to create.
+		4. Finally, paste the contents of your file into the "new file"
+	
 - Hands-on activity: 
 	- sensors and delays, and why it's a problem
 	- better speaker?
