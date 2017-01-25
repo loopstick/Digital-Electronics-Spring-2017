@@ -214,10 +214,12 @@ and email me the URL to your repository
 	- How to upload a file to Github
 		- Click on "Upload files"
 	- How to create a folder in Github
+
 		Git doesn't store empty folders, so you can only create a new folder when
 		you have a file to put in it. Also, you can't create a folder
-		when you upload a file. The only way to do this is to create a _new_
-		file, and then to paste the contents of your file into the new file:
+		when you _upload_ a file. The only way to create a folder is 
+		to create a _new_ file, and then to paste the contents of your file into 
+		the new file:
 		1. Go to the folder inside which you want to create another folder.
 		2. Click on _Create new file_.
 		3. On the text field for the file name, first write the folder name you
@@ -227,7 +229,9 @@ and email me the URL to your repository
 	
 - Hands-on activity: 
 	- sensors and delays, and why it's a problem
-	- better speaker?
+	- Note that Arduino always needs the code (the .ino file) to be in a
+		subfolder of the same name (e.g.
+		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino) theremin example)
 - Homework:
 
 ###Week 3: Thursday, February 2, 2017
