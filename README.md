@@ -226,38 +226,70 @@ and email me the URL to your repository
 			 want to create, then type _/_ (which creates the new folder) and then
 			 the name of the new file you want to create.
 		4. Finally, paste the contents of your file into the "new file"
-	
-- Hands-on activity: 
-	- sensors and delays, and why it's a problem
+- More about using the Arduino tone() function
+	- I don't know why 
+		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
+		didn't work last week
 	- Note that Arduino always needs the code (the .ino file) to be in a
-		subfolder of the same name (e.g.
-		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino) theremin example)
-- Homework:
+		subfolder of the same name 
+	- Note that the tone() function can be used either with or without a duration
+- Hands-on activity: 
+	- Multitasking
+		- Analog Input (File->Examples->Analog->AnalogInput
+		- Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
+	- Sensors
+	- Conditionals
+	- Complex interactions
+- Homework
+	- Read at least one of the Arduino Multitasking Resources in the 
+		[resources](https://github.com/michaelshiloh/resourcesForClasses) list.
+	- Read at least one of the Arduino Tone Resources in the 
+		[resources](https://github.com/michaelshiloh/resourcesForClasses) list.
+	- Make a musical instrument of some sort using at least 3 different sensors
+		and having at least 5 different sounds
 
 ###Week 3: Thursday, February 2, 2017
-- Parts needed: other chips
-- Hands-on activity: sound with other chips
-- Project: 
+- Hands-on activity: Making sound without Arduino
+	- basic oscillator
+	- sensors
+	- combining oscillators
+	- complex ICs
+	- mixing signals
 - Homework:
+	- Propose a creative experimental musical instrument 
 
 ###Week 4: Thursday, February 9, 2017
-- Hands-on activity: sine wave with interrupts
+- Hands-on activity: 
+	- Arduino generated sine wave (using interrupts)
+	- Arduino and other ICs
+- Review proposals
 - Homework: 
-	
+	- You may modify your proposal to make use of today's material
+	- Build a mock-up of a simplified version of your musical instrument
+		- appearance does not matter
+		- function matters supremely!
 
 ###Week 5: Thursday, February 16, 2017
-- Hands-on activity: Processing: Intro, sound, and minim
+- Hands-on activity: 
+	- Processing: Intro, sound, and minim
+	- Programming debugging techniques
+- Homework: 
+	- Refine your musical instrument 
+	- You may integrate today's material into your musical instrument
 
 ###Week 6: Thursday, February 23, 2017
 	work week
 
 ###Week 7: Thursday, March 2, 2017
-- Demonstration: Fritzing, Othermill
+- Lecture: 
+	- Test Equipment
+	- Electronic debugging techniques
 - Midterm Evaluations (2/20-3/3)
 
 ###Week 8: Thursday, March 9, 2017
-- Hands-on activity: 
-	- Electronic Construction techniques
+- Lecture
+	- Electronic Construction techniques for reliability and robustness
+- Demonstration: Fritzing, Othermill
 - Homework
 	- Final project proposals
 
@@ -282,7 +314,7 @@ and email me the URL to your repository
 	-	Passover: work week
 
 ###Week 13: Thursday, April 21, 2017
-- Demonstrate working minimal viable project
+- Demonstrate working minimal viable project (MVP)
 - Homework: Refine
 
 ###Week 14: Thursday, April 27, 2017
