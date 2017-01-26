@@ -225,7 +225,11 @@ and email me the URL to your repository
 		3. On the text field for the file name, first write the folder name you
 			 want to create, then type _/_ (which creates the new folder) and then
 			 the name of the new file you want to create.
-		4. Finally, paste the contents of your file into the "new file"
+		4. Paste the contents of your file into the "new file"
+		4. Optionally, add a short description and an extended description at
+			the bottom of the page
+		5. Finally, save your changes by pressing the green _Commit new file_
+			button at the bottom of the page
 - More about using the Arduino tone() function
 	- I don't know why 
 		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
