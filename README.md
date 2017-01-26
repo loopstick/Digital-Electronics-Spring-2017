@@ -331,8 +331,8 @@ Interface show, Saturday May 6th
 [Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)  
 [Roseanne Wakely](https://github.com/GreenGriffle/Rosie-Digi-Lec)  
 [Di Wang (Wendy)](https://github.com/wendydiwang/hw1)  
-[Shuyan Yuan](https://github.com/shuyanyuan/hw1)  
+[Shuyan Yuan (Iris)](https://github.com/shuyanyuan/hw1)  
 [Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
 Panes, Nino M.  
 Smith, Justin M.  
-Zhang, Ruijin  
+Zhang, Ruijin (Elsy)   
