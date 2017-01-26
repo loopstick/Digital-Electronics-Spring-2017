@@ -329,10 +329,10 @@ Interface show, Saturday May 6th
 
 [Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)  
 [Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)  
-[Roseanne Wakely](https://github.com/GreenGriffle/Rosie-Digi-Lec)
-[Di Wang (Wendy)](https://github.com/wendydiwang/hw1)
-[Shuyan Yuan](https://github.com/shuyanyuan/hw1)
-[Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)
-Panes, Nino M.
-Smith, Justin M.
-Zhang, Ruijin
+[Roseanne Wakely](https://github.com/GreenGriffle/Rosie-Digi-Lec)  
+[Di Wang (Wendy)](https://github.com/wendydiwang/hw1)  
+[Shuyan Yuan](https://github.com/shuyanyuan/hw1)  
+[Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
+Panes, Nino M.  
+Smith, Justin M.  
+Zhang, Ruijin  
