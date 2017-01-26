@@ -241,18 +241,29 @@ and email me the URL to your repository
 	- Multitasking
 		- Analog Input (File->Examples->Analog->AnalogInput
 		- Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
-	- Sensors
 	- Conditionals
 	- Complex interactions
 - Homework
-	- Read at least one of the Arduino Multitasking Resources in the 
-		[resources](https://github.com/michaelshiloh/resourcesForClasses) list.
-	- Read at least one of the Arduino Tone Resources in the 
-		[resources](https://github.com/michaelshiloh/resourcesForClasses) list.
-	- Make a musical instrument of some sort using at least 3 different sensors
-		and having at least 5 different sounds
+	- Read __all four__ of the Multitasking Resources in 
+		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+	- Read at least one of the Arduino Tone Resources in 
+		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+	- Find (online) a musical instrument project of any sort using Arduino. 
+		Put a link in the README.md file in your Github repository. 
+		
+		In order to edit the README.md file:
+		- Click on the README.md file in the top of your repository folder
+		- Click on the little pencil icon to edit the file
+		- Make any edits you wish
+		- Save the file by clicking on the green _Commit changes_ button at the
+			bottom of the page
+	- Read about 3 of the sensors on the Adafruit Sensors guide listed in
+		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+		Describe (briefly) what you've learned in your Github READ.md file.
+
 
 ###Week 3: Thursday, February 2, 2017
+- Sensors
 - Hands-on activity: Making sound without Arduino
 	- basic oscillator
 	- sensors
