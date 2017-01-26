@@ -311,7 +311,7 @@ and email me the URL to your repository
 - Homework: __Working__ minimal viable project due week 13
 
 ###Week 12: Thursday, April 13, 2017
-	-	Passover: work week
+	Passover: work week
 
 ###Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project (MVP)
@@ -329,4 +329,10 @@ Interface show, Saturday May 6th
 
 [Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)  
 [Rujia Tang (Krystal)](//github.com/tangrujia/sailormoon)  
-
+[Roseanne Wakely](https://github.com/GreenGriffle/Rosie-Digi-Lec)
+[Di Wang (Wendy)](https://github.com/wendydiwang/hw1)
+[Shuyan Yuan](https://github.com/shuyanyuan/hw1)
+[Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)
+Panes, Nino M.
+Smith, Justin M.
+Zhang, Ruijin
