@@ -10,7 +10,7 @@
 
 void setup() {
   pinMode (12, OUTPUT); // not strictly necessary, but for clarity   
-  PinMode (A0, INPUT);  // not strictly necessary, but for clarity 
+  pinMode (A0, INPUT);  // not strictly necessary, but for clarity 
 }
 
 void loop() {
