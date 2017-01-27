@@ -208,26 +208,8 @@ and email me the URL to your repository
 
 ###Week 2: Thursday, January 26, 2017
 - Review schedule
-- Github
-	- How to upload a file to Github
-		- Click on "Upload files"
-	- How to create a folder in Github
-
-		Git doesn't store empty folders, so you can only create a new folder when
-		you have a file to put in it. Also, you can't create a folder
-		when you _upload_ a file. The only way to create a folder is 
-		to create a _new_ file, and then to paste the contents of your file into 
-		the new file:
-		1. Go to the folder inside which you want to create another folder.
-		2. Click on _Create new file_.
-		3. On the text field for the file name, first write the folder name you
-			 want to create, then type _/_ (which creates the new folder) and then
-			 the name of the new file you want to create.
-		4. Paste the contents of your file into the "new file"
-		4. Optionally, add a short description and an extended description at
-			the bottom of the page
-		5. Finally, save your changes by pressing the green _Commit new file_
-			button at the bottom of the page
+- Github (moved to Github Resources in
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
 - More about using the Arduino tone() function
 	- I don't know why 
 		[this](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/theremin/theremin.ino)
