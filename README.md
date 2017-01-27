@@ -191,9 +191,7 @@ The schedule is subject to change
 	- Making sounds with Tone
 - Resources: See the Arduino resources
 	[here](https://github.com/michaelshiloh/resourcesForClasses)
-
-#### current homework assignment
-
+- Homework
 - Review the Basic Arduino
 	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	we did in class. 
@@ -243,6 +241,11 @@ and email me the URL to your repository
 		- Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
 	- Conditionals
 	- Complex interactions
+Example
+	- AnalogInput modified to work without using delay():
+		[AnalogInputWithoutDelay](
+		(https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
+#### current homework assignment
 - Homework
 	- Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
