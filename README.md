@@ -253,7 +253,8 @@ Example
 	- Read at least one of the Arduino Tone Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
 	- Find (online) a musical instrument project of any sort using Arduino. 
-		Put a link in the README.md file in your Github repository. 
+		Write a brief description and put a link in the README.md file in 
+		your Github repository. 
 		
 		In order to edit the README.md file:
 		- Click on the README.md file in the top of your repository folder
