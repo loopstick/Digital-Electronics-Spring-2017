@@ -250,8 +250,17 @@ Example
 - Homework
 	- Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
-	- Read at least one of the Arduino Tone Resources in 
+	- Read __both__ of the Arduino Tone Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
+		Pay particular attention to section 
+		_Code 3: Generating a sound with a button_ and 
+		_Code 4: Sounds depending on different keys_ 
+		in the second resource.
+	- Build the circuit described in section
+		_Code 4: Sounds depending on different keys_ of the second 
+		Arduino Tone Resource in
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		and verify that it works properly.
 	- Find (online) a musical instrument project of any sort using Arduino. 
 		Write a brief description and put a link in the README.md file in 
 		your Github repository. 
