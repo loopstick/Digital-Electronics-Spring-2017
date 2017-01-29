@@ -344,6 +344,6 @@ Interface show, Saturday May 6th
 [Di Wang (Wendy)](https://github.com/wendydiwang/hw1)  
 [Shuyan Yuan (Iris)](https://github.com/shuyanyuan/hw1)  
 [Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
-Panes, Nino M.  
-Smith, Justin M.  
-Zhang, Ruijin (Elsy)   
+[Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)
+[Smith, Justin M.](https://github.com/drase15/Homework-1)  
+[Zhang, Ruijin](Elsy)(https://github.com/el-zhang/hw1)  
