@@ -261,12 +261,13 @@ Example
 ###Week 3: Thursday, February 2, 2017
 - Sensors
 - Hands-on activity: Making sound without Arduino
-	- basic 40106 (hex Schmitt trigger inverter)
+	- Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
-	- sensors
-	- combining oscillators
-	- complex ICs
-	- mixing signals
+	- Sensors
+	- Combining oscillators
+	- Complex ICs
+	- Mixing signals
+	- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 - Homework:
 	- Propose a creative experimental musical instrument 
 
