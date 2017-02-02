@@ -259,6 +259,7 @@ Example
 
 
 ###Week 3: Thursday, February 2, 2017
+- Homework review
 - Sensors
 - Hands-on activity: Making sound without Arduino
 	- Basic 40106 (hex Schmitt trigger inverter)
