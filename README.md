@@ -265,6 +265,7 @@ Example
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 	- Sensors
 	- Combining oscillators
+	- Amplifier circuit [schematic](images/lm386Amplifier_schem.png)
 	- Complex ICs
 	- Mixing signals
 	- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
