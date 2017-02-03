@@ -227,8 +227,6 @@ Example
 	- AnalogInput modified to work without using delay():
 		[AnalogInputWithoutDelay](
 		(https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-
-#### current homework assignment
 - Homework
 	- Read __all four__ of the Multitasking Resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses).
@@ -270,8 +268,18 @@ Example
 	- Complex ICs
 	- Mixing signals
 	- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
+
+#### current homework assignment
 - Homework:
-	- Propose a creative experimental musical instrument 
+	- Propose a creative experimental musical instrument. Describe the following
+		in your Github repository:
+		- Draw a sketch of your instrument
+		- Describe the overall concept
+		- Create a very rough schematic to the best of your ability
+		- Describe what your program will do, to the best of your ability
+	- I have added the Github cheat sheet to the section of Github resources 
+		in our
+	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
 
 ###Week 4: Thursday, February 9, 2017
 - Hands-on activity: 
@@ -348,6 +356,6 @@ Interface show, Saturday May 6th
 [Di Wang (Wendy)](https://github.com/wendydiwang/hw1)  
 [Shuyan Yuan (Iris)](https://github.com/shuyanyuan/hw1)  
 [Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
-[Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)
+[Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)  
 [Smith, Justin M.](https://github.com/drase15/Homework-1)  
-[Zhang, Ruijin](Elsy)(https://github.com/el-zhang/hw1)  
+[Ruijin Zhang](Elsy)(https://github.com/el-zhang/hw1)  
