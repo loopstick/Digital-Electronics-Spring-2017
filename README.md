@@ -289,8 +289,9 @@ Example
 - Hands-on activity: 
 	- soldering
 - Homework: 
-	- You may modify your proposal to make use of today's material
+	- Install Processing from processing.org
 	- Build a mock-up of a simplified version of your musical instrument
+		- You may modify your proposal to make use of anything new you've learned
 		- appearance does not matter
 		- function matters supremely!
 
