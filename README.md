@@ -263,13 +263,6 @@ Example
 	- Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 	- Sensors
-	- Combining oscillators
-	- Amplifier circuit [schematic](images/lm386Amplifier_schem.png)
-	- Complex ICs
-	- Mixing signals
-	- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
-
-#### current homework assignment
 - Homework:
 	- Propose a creative experimental musical instrument. Describe the following
 		in your Github repository:
@@ -283,9 +276,17 @@ Example
 
 ###Week 4: Thursday, February 9, 2017
 - Hands-on activity: 
-	- Arduino generated sine wave (using interrupts)
-	- Arduino and other ICs
+	- More ways to make sounds without Arduino
+		- Combining oscillators
+		- Amplifier circuit [schematic](images/lm386Amplifier_schem.png)
+		- Mixing signals
+			- analog switches
+				[74HC4051](http://www.nxp.com/documents/data_sheet/74HC_HCT4051.pdf)
+		- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
+	- Combining Arduino with other ICs
 - Review proposals
+
+#### current homework assignment
 - Homework: 
 	- You may modify your proposal to make use of today's material
 	- Build a mock-up of a simplified version of your musical instrument
@@ -293,6 +294,8 @@ Example
 		- function matters supremely!
 
 ###Week 5: Thursday, February 16, 2017
+- Lecture
+	- Arduino generated sine wave (using interrupts)
 - Hands-on activity: 
 	- Processing: Intro, sound, and minim
 	- Programming debugging techniques
