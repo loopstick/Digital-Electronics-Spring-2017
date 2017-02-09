@@ -277,6 +277,7 @@ Example
 	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
 
 ###Week 4: Thursday, February 9, 2017
+- Review proposals
 - Hands-on activity: 
 	- More ways to make sounds without Arduino
 		- Combining oscillators
@@ -286,7 +287,6 @@ Example
 				[74HC4051](http://www.nxp.com/documents/data_sheet/74HC_HCT4051.pdf)
 		- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 	- Combining Arduino with other ICs
-- Review proposals
 - Homework: 
 	- You may modify your proposal to make use of today's material
 	- Build a mock-up of a simplified version of your musical instrument
