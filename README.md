@@ -263,6 +263,8 @@ Example
 	- Basic 40106 (hex Schmitt trigger inverter)
 		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
 	- Sensors
+
+#### current homework assignment
 - Homework:
 	- Propose a creative experimental musical instrument. Describe the following
 		in your Github repository:
@@ -285,8 +287,6 @@ Example
 		- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 	- Combining Arduino with other ICs
 - Review proposals
-
-#### current homework assignment
 - Homework: 
 	- You may modify your proposal to make use of today's material
 	- Build a mock-up of a simplified version of your musical instrument
