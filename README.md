@@ -363,4 +363,4 @@ Interface show, Saturday May 6th
 [Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
 [Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)  
 [Smith, Justin M.](https://github.com/drase15/Homework-1)  
-[Ruijin Zhang](Elsy)(https://github.com/el-zhang/hw1)  
+[Ruijin Zhang(Elsy)](https://github.com/el-zhang/hw1)  
