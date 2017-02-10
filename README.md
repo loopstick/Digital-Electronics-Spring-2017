@@ -278,28 +278,49 @@ Example
 
 ###Week 4: Thursday, February 9, 2017
 - Review proposals
-- Lecture/demonstration
-	- More ways to make sounds without Arduino
-		- Combining oscillators
-		- Amplifier circuit [schematic](images/lm386Amplifier_schem.png)
-		- Combining Arduino with other ICs
-			- e.g. using analog switches
-				[74HC4051](http://www.nxp.com/documents/data_sheet/74HC_HCT4051.pdf)
-		- Other 40106 [ideas](http://bleeplabs.com/rad-fi-analog/)
 - Hands-on activity: 
-	- soldering
+	- Processing
+		- Install Processing from processing.org
+		- If necessary, review Processing e.g. the notes for
+			[this](http://teachmetomake.com/wordpress/cca-programming-for-art-and-design-fall-2015)
+			class or some other place (Daniel Shiffman's videos are usually
+			excellent)
+		- Install the minim library. In Processing:
+			- go to Sketch -> Import Library -> Add Library
+			- type _minim_ in the filter
+			- Select _minim_
+			- Click _Install_
+		- [Here](examples/minimalMinimSine/minimalMinimSine.pde) is the minimal Minim example we looked at in class
+		- [Here](examples/minimalMinimSineMouse/minimalMinimSineMouse.pde) is
+			another simple example, showing how to vary the pitch based on the
+			position of the mouse
+		- [Here](examples/arduinoMinimProcessing/arduinoMinimProcessing.pde) is the example we worked on in class which takes numbers from
+			Arduino and uses them to set the frequency of the sine wave.
 - Homework: 
-	- Install Processing from processing.org
 	- Build a mock-up of a simplified version of your musical instrument
 		- You may modify your proposal to make use of anything new you've learned
-		- appearance does not matter
-		- function matters supremely!
+		- Appearance does not matter
+		- Use only one or two sensors
+		- Function matters supremely!
+		- The main goal is to test the feasibility of your plan, so your mock up
+			must show that. If you plan to measure a heartbeat, show that you can do
+			that. If you plan to detect a footstop, show that you can do that. If
+			you plan to detect a complex sound like a tabla, show that you can do
+			that.
+		- If you are creating complex sounds, look at some of the minim examples
+			e.g. File -> Examples -> Contributed Libraries -> Minim -> Synthesis
+			such as _defaultInstrumentExample_ which demonstrates the built-in
+			default instrument and _compositionExample_ which has
+			lots of different instruments for you to chose. You will have to extract
+			the relevant parts to your program.
+- My homework:
+	- Create a version of _arduinoMinimProcessing_ which 
 
 ###Week 5: Thursday, February 16, 2017
 - Lecture
 	- Arduino generated sine wave (using interrupts)
 - Hands-on activity: 
-	- Processing: Intro, sound, and minim
+	- soldering
 	- Programming debugging techniques
 - Homework: 
 	- Refine your musical instrument 
@@ -363,4 +384,4 @@ Interface show, Saturday May 6th
 [Wei Wang (Vera)](https://github.com/VeraWaiting/hw1)  
 [Panes, Nino M.](https://github.com/senaponin/DigitalElectronics)  
 [Smith, Justin M.](https://github.com/drase15/Homework-1)  
-[Ruijin Zhang(Elsy)](https://github.com/el-zhang/hw1)  
+[Ruijin Zhang (Elsy)](https://github.com/el-zhang/hw1)  
