@@ -320,10 +320,11 @@ Example
 			- Remember my office hours 3-3:30 on Thursday, and at other times if you
 				email me to set it up
 			- Bring your mock-up to class
-			- Put your code on Github
-			- Put a schematic on Github. Hand drawn is fine.
-				If you want to use the schematic capture
-				program that I use, get it [here](http:fritzing.org)
+			- Make a new folder on your Github repositor for this project
+				- Put your code in that folder. Call it something like _firstMockUp_
+				- Put a schematic in that folder. Hand drawn is fine.
+					If you want to use the schematic capture
+					program that I use, get it [here](http:fritzing.org)
 - My homework:
 	- Create a version of _arduinoMinimProcessing_ which 
 
