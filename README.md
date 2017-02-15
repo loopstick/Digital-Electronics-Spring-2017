@@ -325,8 +325,8 @@ Example
 				- Put a schematic in that folder. Hand drawn is fine.
 					If you want to use the schematic capture
 					program that I use, get it [here](http:fritzing.org)
-- My homework:
-	- Create a version of _arduinoMinimProcessing_ which 
+- Michael's homework:
+	- Create a version of _arduinoMinimProcessing_ which reads from two sensors
 
 ###Week 5: Thursday, February 16, 2017
 - Lecture
