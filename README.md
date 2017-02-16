@@ -336,10 +336,16 @@ Example
 		the added feature that it reads from two sensors
 - Hands-on activity: 
 	- Debugging techniques
+		- Compiling vs. uploading
+		- Syntax error vs. logic error
 		- Using _print_ and _println_
 		- Using the Digital Multimeter
 			- See debugging resources
 				[here](https://github.com/michaelshiloh/resourcesForClasses)
+		- Asking for help
+			- First try to figure it out on your own. Google is great here.
+			- Upload your code to Github
+			- Explain to me (or whoever you are asking) the problem
 	- Soldering
 - Homework: 
 	- You have 2 weeks left for this project. You should have a very solid
