@@ -342,20 +342,20 @@ Example
 				[here](https://github.com/michaelshiloh/resourcesForClasses)
 	- Soldering
 - Homework: 
-- You have 2 weeks left for this project. You should have a very solid
-	prototype or first draft working by next week. Use class next
-	week as an opportunity to solve problems.
-- Remember the principle of _Minimum Viable Product_. First get the basics
-	working, then, if you have time, add other features
-- As always
-	- Email me if you have questions
-	- Remember my office hours 3-3:30 on Tuesdays and Thursdays, and
-		at other times if you email me to set it up (but not next week).
-	- Make a new folder on your Github repository for this project
-	- Put your code in that folder.
-	- Put a schematic in that folder. Hand drawn is fine.
-		If you want to use the schematic capture program that
-		I use, get it [here](http:fritzing.org)
+	- You have 2 weeks left for this project. You should have a very solid
+		prototype or first draft working by next week. Use class next
+		week as an opportunity to solve problems.
+	- Remember the principle of _Minimum Viable Product_. First get the basics
+		working, then, if you have time, add other features
+	- As always
+		- Email me if you have questions
+		- Remember my office hours 3-3:30 on Tuesdays and Thursdays, and
+			at other times if you email me to set it up (but not next week).
+		- Make a new folder on your Github repository for this project
+		- Put your code in that folder.
+		- Put a schematic in that folder. Hand drawn is fine.
+			If you want to use the schematic capture program that
+			I use, get it [here](http:fritzing.org)
 
 ###Week 6: Thursday, February 23, 2017
 - Work week with Special Guest Lecturer (attendance is mandatory)
