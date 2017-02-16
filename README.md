@@ -331,7 +331,7 @@ Example
 ###Week 5: Thursday, February 16, 2017
 - Review
 	- [_arduinoMinimProcessing2Sensors_]
-		(arduinoMinimProcessing2Sensors/arduinoMinimProcessing2Sensors.pde)
+		(examples/arduinoMinimProcessing2Sensors/arduinoMinimProcessing2Sensors.pde)
 		example similar to the one we looked at last week with 
 		the added feature that it reads from two sensors
 - Hands-on activity: 
