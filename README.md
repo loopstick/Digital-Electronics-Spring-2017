@@ -335,12 +335,12 @@ Example
 		example similar to the one we looked at last week with 
 		the added feature that it reads from two sensors
 - Hands-on activity: 
-	- soldering
 	- Debugging techniques
 		- Using _print_ and _println_
 		- Using the Digital Multimeter
 			- See debugging resources
 				[here](https://github.com/michaelshiloh/resourcesForClasses)
+	- Soldering
 - Homework: 
 - You have 2 weeks left for this project. You should have a very solid
 	prototype or first draft working by next week. Use class next
