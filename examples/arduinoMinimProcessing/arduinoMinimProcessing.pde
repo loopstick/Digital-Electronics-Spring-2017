@@ -1,3 +1,10 @@
+/*
+
+Read a value from the serial port, presumably that came from an Arduino
+Use this value to set the pitch of an oscillator provided by minim
+
+*/
+
 import processing.serial.*;
 import ddf.minim.signals.*;
 
@@ -14,6 +21,7 @@ SineWave sine;   // a function to generate the values of a sine wave
 
 void setup () {
   // Open whatever port is the one you're using.
+  // DON'T FORGET TO CHANGE THIS FOR YOUR COMPUTER
   myPort = new Serial(this, Serial.list()[1], 9600);
 
   // don't generate a serialEvent() unless you get a newline character:
@@ -51,3 +59,19 @@ void serialEvent (Serial myPort) {
     freq = map(inByte, 0, 1023, 110, 880);
   }
 }
+
+/*
+
+// Arduino code for arduinoMinimProcessing.pde
+
+void setup() {
+  // initialize the serial communication:
+  Serial.begin(9600);
+}
+
+void loop() {
+  Serial.println(analogRead(A0));
+  delay(1); // Wait after each analogRead()
+}
+
+*/
