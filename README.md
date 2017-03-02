@@ -368,10 +368,8 @@ Example
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
 ###Week 7: Thursday, March 2, 2017
-- Lecture: 
-	- Test Equipment
-	- Electronic debugging techniques
-- Midterm Evaluations (2/20-3/3)
+- Musical Instruments Project critique 12-1pm
+-	Midterm evaluations (2/20-3/3) 1-3pm
 
 #### current homework assignment
 - Homework due __this week__ Friday March 3 at noon. 
@@ -395,7 +393,9 @@ Example
 
 ###Week 8: Thursday, March 9, 2017
 - Lecture
-	- Electronic Construction techniques for reliability and robustness
+	- Construction techniques 
+	- Test Equipment
+	- Debugging techniques
 - Demonstration: Fritzing, Othermill
 - Homework
 	- Final project proposals
