@@ -368,8 +368,9 @@ Example
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
 ###Week 7: Thursday, March 2, 2017
-- Musical Instruments Project critique 12-1pm
+- Musical Instruments Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
+	120 minutes / 9 = 12 minutes each
 
 #### current homework assignment
 - Homework due __this week__ Friday March 3 at noon. 
