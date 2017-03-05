@@ -391,6 +391,37 @@ Example
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
+- Homework due next week. Please read and try to understand as much as
+	possible. Be prepared to answer questions in class. It is OK if you don't
+	understand everything, but it is not OK if you did not read:
+	- Edge detection:
+		[this] 
+		(https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+		, [this] 
+		(http://www.ladyada.net/learn/arduino/lesson5.html)
+		, and
+		[this]
+		(https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/)
+	- Debouncing: [this](https://www.arduino.cc/en/tutorial/debounce)
+	- Arrays:
+		[this]
+		(https://www.tutorialspoint.com/arduino/arduino_arrays.htm)
+		, [this]
+		(https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/)
+		, [this]
+		(https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/)
+		, [this]
+		(http://www.thebox.myzen.co.uk/Tutorial/Arrays.html)
+		, and [this]
+		(https://www.arduino.cc/en/Tutorial/Arrays)
+	- Test equipment:
+		[this]
+		(https://learn.adafruit.com/multimeters?view=all)
+		and
+		[this]
+		(https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
+	- Soldering:
+		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 ###Week 8: Thursday, March 9, 2017
 - Lecture
