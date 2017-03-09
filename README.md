@@ -430,6 +430,7 @@ Example
   - Sensors, more practice
 	- Soldering circuits
 	- Examples
+		- Slack?
 	- "better to ask half confused question than to wait until perfect
 	  question!"
 - Lecture
