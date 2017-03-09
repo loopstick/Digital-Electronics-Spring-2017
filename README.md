@@ -382,9 +382,9 @@ Example
 			- What are your goals for the rest of the semester?
 			- What obstacles will you face in achieving these goals?
 			- How do you plan to overcome those obstacles?
-			- How would you grade your vehicle? 
+			- How would you grade your musical instrument? 
 			- What would you have done differently
-				if you had to do the vehicle assignment over again?
+				if you had to do the musical instrument assignment over again?
 		- Course evaluation
 			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
@@ -424,16 +424,34 @@ Example
 		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
 ###Week 8: Thursday, March 9, 2017
+- Evaluation feedback
+  - Some of you were late. This will affect your grade.
+  - English
+  - Sensors, more practice
+	- Soldering circuits
+	- Examples
+	- "better to ask half confused question than to wait until perfect
+	  question!"
 - Lecture
-	- Construction techniques 
-	- Test Equipment
+	- Digital Read, if necessary
+	- Edge detection
+	- Debouncing
+	- Counting and modulo
 	- Debugging techniques
 - Demonstration: Fritzing, Othermill
+- time permitting
+	- Arrays
+	- Basic Electronic Theory
+	- Construction techniques 
+	- Test Equipment
+	- Neopixels
 - Homework
-	- Final project proposals
+	- Assign sensors 
+		- Accelerometer, microphone, color sensor, ultrasonic distance sensor, IR
+		  distance sensor, 
+	- read about fritzing/othermill
 
 ###Week 9: Thursday, March 16, 2017
-- Critique proposals
 - Start working: Research, mock-ups, test ideas and concepts
 
 ###Spring Break: Thursday, March 22, 2017
