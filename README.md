@@ -371,8 +371,6 @@ Example
 - Musical Instruments Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	120 minutes / 9 = 12 minutes each
-
-#### current homework assignment
 - Homework due __this week__ Friday March 3 at noon. 
 	- Write a course- and self-evaluation, 
 		email to me by Friday March 3 at noon. 
@@ -439,21 +437,47 @@ Example
 	- Debouncing
 	- Counting and modulo
 	- Debugging techniques
-- Demonstration: Fritzing, Othermill
-- time permitting
 	- Arrays
+- Demonstration: Fritzing, Othermill
+
+#### current homework assignment
+- Homework
+	1. Write a concept proposal for your final project
+		which must be substantially more complex than the exercises we've 
+		done in class.
+		Upload this proposal to your Github repository
+		in a new folder called "finalProject"
+  2. If you need it, review the __Processing__ resources
+    shown on our
+    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    page
+  3. Read the __Classes and Objects__ resources
+    shown on our
+    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    page
+	4. Read the Fritzing resources
+    shown on our
+    [resources](https://github.com/michaelshiloh/resourcesForClasses)
+    page
+	5. Create a __schematic__ in Fritzing and then try to create a Printed
+			Circuit Board (PCB) layout of that circuit. The schematic can be of any
+circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
+you. If you have no idea, create the first circuit on
+[this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
+
+
+
+###Week 9: Thursday, March 16, 2017
+- Start working: Research, mock-ups, test ideas and concepts
+- time permitting
 	- Basic Electronic Theory
 	- Construction techniques 
-	- Test Equipment
-	- Neopixels
+	- Test Equipment and debugging with
+	- Neopixels LED matrix
 - Homework
 	- Assign sensors 
 		- Accelerometer, microphone, color sensor, ultrasonic distance sensor, IR
 		  distance sensor, 
-	- read about fritzing/othermill
-
-###Week 9: Thursday, March 16, 2017
-- Start working: Research, mock-ups, test ideas and concepts
 
 ###Spring Break: Thursday, March 22, 2017
 - Research, build mock-ups, test ideas and concepts
