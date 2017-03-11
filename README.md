@@ -455,11 +455,11 @@ Example
     shown on our
     [resources](https://github.com/michaelshiloh/resourcesForClasses)
     page
-	4. Read the Fritzing resources
+  4. Read the Fritzing resources
     shown on our
     [resources](https://github.com/michaelshiloh/resourcesForClasses)
     page
-	5. Create a __schematic__ in Fritzing and then try to create a Printed
+  5. Create a __schematic__ in Fritzing and then try to create a Printed
 			Circuit Board (PCB) layout of that circuit. The schematic can be of any
 circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
 you. If you have no idea, create the first circuit on
