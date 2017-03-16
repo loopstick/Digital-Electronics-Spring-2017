@@ -3,7 +3,7 @@
 
 [Current Homework Assignment](#current-homework-assignment)
 
-###Syllabus
+### Syllabus
 
 * Title: Mechatronics (Graduate Design)
 * Class: Thursdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
@@ -12,13 +12,13 @@
 	* Tuesdays and Thursdays 3:00 - 3:30
 	* And at other times by appointment
 
-####Goals
+#### Goals
 The goal of this class 
 is to teach you how to design, build, and debug digital electronic devices. 
 My goal is to make the course as interesting and relevant as possible for you, 
 so please ask questions and bring up topics you are curious about.
 
-####Github and Class Repository
+#### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
 https://github.com/michaelshiloh/Mechatronics-Spring-2017
 
@@ -30,18 +30,18 @@ changes — take advantage of this feature!
 You will be required to create your own repository for handing in homework and
 for project documentation. 
 
-####Required Textbook
+#### Required Textbook
 No textbook is required, but there are many good online references and a
 few good books out there I can recommend. We also have a good assortment of
 books in the library.
 
-####Prerequisites
+#### Prerequisites
 * Basic algebra. You should be comfortable with simple equations,
 manipulating numbers, fractions, solving for variables, and the
 engineering prefixes (micro, milli, kilo, mega, etc.)
 * Some understanding of geometry will also be helpful.
 
-####Requirements and Expectations
+#### Requirements and Expectations
 * Always bring your computer to class. If you don’t have a computer,
 check one out from the Media Center. You will need a computer to
 participate, and your grade will be negatively affected if you don’t bring
@@ -61,7 +61,7 @@ don’t be late. These are not requests, these are requirements.
 * You are responsible for checking your email and the class repository
 for updates.
 
-####Access & Wellness Services
+#### Access & Wellness Services
 CCA says:
 > Students with disabilities, including disabilities that are not clearly
 > evident like chronic diseases or learning disabilities are encouraged
@@ -78,13 +78,13 @@ coaches, the Learning Resource Center, and talk to me if you feel you are
 struggling with the material — I can help you do better in this class, but
 only if you let me know you need help.
 
-####Class Format
+#### Class Format
 Sessions will be a mix of lectures, guided labs, and independent work time.
 Homework will require research, analysis, and experimentation.
 Engineering always takes more time than you think — please make sure to
 give yourself enough time!
 
-####Grading
+#### Grading
 I will consider the various components of the class in roughly the following proportions:
 * 25% Homework & Assignments
 * 40% Projects and Project Documentation
@@ -114,7 +114,7 @@ Substantial problems exist in your work.
 
 **F: Fail.** You did not submit work, or work is below unsatisfactory level.
 
-#####Words of Advice
+##### Words of Advice
 Exploration is a key part of this class. You’ll get more out of your work if
 you
 give yourself extra time and have patience. Sometimes you’ll hit a dead
@@ -124,7 +124,7 @@ This class should be both fun and intense. It’s most fun when you enjoy
 what you’re working on, so make a point of taking some time to explore
 projects you make want to work on in the future!
 
-####Required equipment
+#### Required equipment
 - Arduino.cc Uno R3 e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
 	[Adafruit](https://www.adafruit.com/products/50)). 
@@ -155,7 +155,7 @@ Local stores that should carry all these are:
 * I mentioned [Fry's Electronics](www.frys.com) (various locations in South Bay) in class 
 but I'm not sure that they carry the official Arduino.
 
-####Optional equipment
+#### Optional equipment
 As you develop your projects and interests, you might need to purchase
 additional components and devices. This is impossible to predict as the range
 of projects you might approach are indeed infinite. At the low end, you can
@@ -179,10 +179,10 @@ is to consider that there is a relationship between time,
 money, and features. You can choose any two of them, and the
 third will grow (or shrink) to accommodate.
 
-###Schedule
+### Schedule
 The schedule is subject to change
 
-###Week 1: Thursday, January 19, 2017
+### Week 1: Thursday, January 19, 2017
 - Introductions
 - Interests and goals
 - Hands-on activity
@@ -206,7 +206,7 @@ The schedule is subject to change
 [this guide](https://github.com/zamfi/github-guide)
 and email me the URL to your repository
 
-###Week 2: Thursday, January 26, 2017
+### Week 2: Thursday, January 26, 2017
 - Review schedule
 - Github (moved to Github Resources in
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
@@ -256,7 +256,7 @@ Example
 		Describe (briefly) what you've learned in your Github READ.md file.
 
 
-###Week 3: Thursday, February 2, 2017
+### Week 3: Thursday, February 2, 2017
 - Homework review
 - Sensors
 - Hands-on activity: Making sound without Arduino
@@ -274,7 +274,7 @@ Example
 		in our
 	[list of resources](https://github.com/michaelshiloh/resourcesForClasses)
 
-###Week 4: Thursday, February 9, 2017
+### Week 4: Thursday, February 9, 2017
 - Review proposals
 - Hands-on activity: 
 	- Processing
@@ -326,7 +326,7 @@ Example
 - Michael's homework: Create a version of arduinoMinimProcessing which reads
   from two sensors
 
-###Week 5: Thursday, February 16, 2017
+### Week 5: Thursday, February 16, 2017
 - Review
 	- [_arduinoMinimProcessing2Sensors_]
 		(examples/arduinoMinimProcessing2Sensors/arduinoMinimProcessing2Sensors.pde)
@@ -364,10 +364,10 @@ Example
 			If you want to use the schematic capture program that
 			I use, get it [here](http:fritzing.org)
 
-###Week 6: Thursday, February 23, 2017
+### Week 6: Thursday, February 23, 2017
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
-###Week 7: Thursday, March 2, 2017
+### Week 7: Thursday, March 2, 2017
 - Musical Instruments Project critique 12-12:45pm
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	120 minutes / 9 = 12 minutes each
@@ -421,7 +421,7 @@ Example
 	- Soldering:
 		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 
-###Week 8: Thursday, March 9, 2017
+### Week 8: Thursday, March 9, 2017
 - Evaluation feedback
   - Some of you were late. This will affect your grade.
   - English
