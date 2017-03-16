@@ -465,7 +465,7 @@ circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
 you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
-###Week 9: Thursday, March 16, 2017
+### Week 9: Thursday, March 16, 2017
 - Homework critique
 	- Disorganized and unclear. 
 		- Confusing names of files and folders
@@ -487,30 +487,30 @@ you. If you have no idea, create the first circuit on
 	- Final project proposals and prototype
 		- flow charts, block diagrams, and pseudo-code
 
-###Spring Break: Thursday, March 22, 2017
+### Spring Break: Thursday, March 22, 2017
 - Research, build mock-ups, test ideas and concepts
 
-###Week 10: Thursday, March 30, 2017
+### Week 10: Thursday, March 30, 2017
 - Work: test, repair, iterate
 - Homework: __Working__ mock-up by next week
 
-###Week 11: Thursday, April 6, 2017
+### Week 11: Thursday, April 6, 2017
 - Critique working mock-up 
 - Lecture: Minimal Viable Project (MVP)
 - Debug and refine mockup, start on prototype
 - Homework: __Working__ minimal viable project due week 13
 
-###Week 12: Thursday, April 13, 2017
+### Week 12: Thursday, April 13, 2017
 	Passover: work week
 
-###Week 13: Thursday, April 21, 2017
+### Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project (MVP)
 - Homework: Refine
 
-###Week 14: Thursday, April 27, 2017
+### Week 14: Thursday, April 27, 2017
 - Final project critique
 
-###Week 15: Thursday, May 4, 2017
+### Week 15: Thursday, May 4, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
 Interface show, Saturday May 6th
