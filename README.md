@@ -1,5 +1,5 @@
 # Digital-Electronics-Spring-2017
-##Digital Electronics at California College of the Arts, Spring 2017 
+## Digital Electronics at California College of the Arts, Spring 2017 
 
 [Current Homework Assignment](#current-homework-assignment)
 
@@ -465,9 +465,18 @@ circuit you wish e.g. your musical instrument. Inclusion of Arduino is up to
 you. If you have no idea, create the first circuit on
 [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
 
-
-
 ###Week 9: Thursday, March 16, 2017
+- Homework critique
+	- Disorganized and unclear. 
+		- Confusing names of files and folders
+		- No understandable folder structure
+		- Missing parts of homework
+		- Comments often left over from examples or other programs on which
+			you based yours but are no longer relevant. Get rid of them.
+	- Sensors: What do you want to know? Do some research and ask specific 
+		questions. 
+- Homework review
+- Critique proposal concepts
 - Start working: Research, mock-ups, test ideas and concepts
 - time permitting
 	- Basic Electronic Theory
@@ -475,9 +484,8 @@ you. If you have no idea, create the first circuit on
 	- Test Equipment and debugging with
 	- Neopixels LED matrix
 - Homework
-	- Assign sensors 
-		- Accelerometer, microphone, color sensor, ultrasonic distance sensor, IR
-		  distance sensor, 
+	- Final project proposals and prototype
+		- flow charts, block diagrams, and pseudo-code
 
 ###Spring Break: Thursday, March 22, 2017
 - Research, build mock-ups, test ideas and concepts
