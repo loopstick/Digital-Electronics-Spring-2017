@@ -439,8 +439,6 @@ Example
 	- Debugging techniques
 	- Arrays
 - Demonstration: Fritzing, Othermill
-
-#### current homework assignment
 - Homework
 	1. Write a concept proposal for your final project
 		which must be substantially more complex than the exercises we've 
@@ -478,19 +476,38 @@ you. If you have no idea, create the first circuit on
 - Homework review
 - Critique proposal concepts
 - Start working: Research, mock-ups, test ideas and concepts
-- time permitting
-	- Basic Electronic Theory
-	- Construction techniques 
-	- Test Equipment and debugging with
-	- Neopixels LED matrix
+
+#### current homework assignment
 - Homework
+	- Complete the Fritzing assignment from last week. Make a new folder called
+		"Fritzing" in your github repository and upload the .fzz file of your
+		circuit into that folder
 	- Final project proposals and prototype
-		- flow charts, block diagrams, and pseudo-code
+		- Build a prototype to verify the most difficult part of your project
+		- Research 
+		- Order or check out equipment
+		- Create a very clear project description identifying the Minimal Viable
+			Project and optional add-ons
+			- Include flow charts, block diagrams, and pseudo-code
+	- Improve the quality of your work on Github
+		- Well organized Github folders, good folder and file names
+		- Good descriptions for each assignment
+		- Programs should be:
+			- Well organized
+			- Properly indented
+			- Must include meaningful comments
+			- Unused variables and statements should be removed
+		- You will be graded on these points
 
 ### Spring Break: Thursday, March 22, 2017
 - Research, build mock-ups, test ideas and concepts
 
 ### Week 10: Thursday, March 30, 2017
+- time permitting
+	- Basic Electronic Theory
+	- Construction techniques 
+	- Test Equipment and debugging with
+	- Neopixels LED matrix
 - Work: test, repair, iterate
 - Homework: __Working__ mock-up by next week
 
