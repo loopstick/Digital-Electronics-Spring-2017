@@ -503,11 +503,12 @@ you. If you have no idea, create the first circuit on
 - Research, build mock-ups, test ideas and concepts
 
 ### Week 10: Thursday, March 30, 2017
-- time permitting
+- Fritzing review
+- Othermill?
+- Lecture
 	- Basic Electronic Theory
-	- Construction techniques 
+	- Construction techniques review
 	- Test Equipment and debugging with
-	- Neopixels LED matrix
 - Work: test, repair, iterate
 - Homework: __Working__ mock-up by next week
 
