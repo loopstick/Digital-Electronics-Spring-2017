@@ -503,6 +503,7 @@ you. If you have no idea, create the first circuit on
 - Research, build mock-ups, test ideas and concepts
 
 ### Week 10: Thursday, March 30, 2017
+- Quick project status report
 - Fritzing review
 - Othermill?
 - Lecture
