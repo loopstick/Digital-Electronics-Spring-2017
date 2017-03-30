@@ -511,7 +511,7 @@ you. If you have no idea, create the first circuit on
 
 #### current homework assignment
 - Homework: Functional part of your project
-	- Build a working part of your project and demonstrate it in class
+	- Build a working part of your project and demonstrate it in class next week
 
 ### Week 11: Thursday, April 6, 2017
 - Critique working mock-up 
