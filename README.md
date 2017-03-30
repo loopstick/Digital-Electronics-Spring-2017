@@ -476,8 +476,6 @@ you. If you have no idea, create the first circuit on
 - Homework review
 - Critique proposal concepts
 - Start working: Research, mock-ups, test ideas and concepts
-
-#### current homework assignment
 - Homework
 	- Complete the Fritzing assignment from last week. Make a new folder called
 		"Fritzing" in your github repository and upload the .fzz file of your
@@ -507,20 +505,25 @@ you. If you have no idea, create the first circuit on
 - Fritzing review
 - Othermill?
 - Lecture
-	- Basic Electronic Theory
-	- Construction techniques review
-	- Test Equipment and debugging with
+	- Wireless section in our class
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
 - Work: test, repair, iterate
-- Homework: __Working__ mock-up by next week
+
+#### current homework assignment
+- Homework: Functional part of your project
+	- Build a working part of your project and demonstrate it in class
 
 ### Week 11: Thursday, April 6, 2017
 - Critique working mock-up 
-- Lecture: Minimal Viable Project (MVP)
+- Lecture: 
+	- Minimal Viable Project (MVP)
+	- Basic Electronic Theory
+	- Construction techniques review
+	- Test Equipment and debugging with
 - Debug and refine mockup, start on prototype
 - Homework: __Working__ minimal viable project due week 13
 
 ### Week 12: Thursday, April 13, 2017
-	Passover: work week
 
 ### Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project (MVP)
@@ -532,7 +535,7 @@ you. If you have no idea, create the first circuit on
 ### Week 15: Thursday, May 4, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
-Interface show, Saturday May 6th
+### Interface show, Saturday May 6th
 
 ## Student Repositories
 
