@@ -508,8 +508,6 @@ you. If you have no idea, create the first circuit on
 	- Wireless section in our class
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)).
 - Work: test, repair, iterate
-
-#### current homework assignment
 - Homework: Functional part of your project
 	- Build any working part of your project 
 		(preferably the part you are most concerned about)
@@ -522,6 +520,11 @@ you. If you have no idea, create the first circuit on
 		- Substitute is much better at Processing than I am so take advantage
 			of this opportunity if you are working with Processing
 		- She will also help with all other questions and problems
+
+#### current homework assignment
+-	Homework
+	- Minimal Viable Project is due April 21
+		- If you don't think you can get there in 2 weeks, simplify your project
 
 ### Week 12: Thursday, April 13, 2017
 
