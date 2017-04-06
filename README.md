@@ -517,13 +517,11 @@ you. If you have no idea, create the first circuit on
 
 ### Week 11: Thursday, April 6, 2017
 - Critique working mock-up 
-- Lecture: 
-	- Minimal Viable Project (MVP)
-	- Basic Electronic Theory
-	- Construction techniques review
-	- Test Equipment and debugging with
-- Debug and refine mockup, start on prototype
-- Homework: __Working__ minimal viable project due week 13
+- Reminder
+  - I am out of town next week but we do have a substitute 
+		- Substitute is much better at Processing than I am so take advantage
+			of this opportunity if you are working with Processing
+		- She will also help with all other questions and problems
 
 ### Week 12: Thursday, April 13, 2017
 
