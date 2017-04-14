@@ -515,18 +515,17 @@ you. If you have no idea, create the first circuit on
 
 ### Week 11: Thursday, April 6, 2017
 - Critique working mock-up 
-- Reminder
-  - I am out of town next week but we do have a substitute 
-		- Substitute is much better at Processing than I am so take advantage
-			of this opportunity if you are working with Processing
-		- She will also help with all other questions and problems
+
+### Week 12: Thursday, April 13, 2017
 
 #### current homework assignment
 -	Homework
 	- Minimal Viable Project is due April 21
 		- If you don't think you can get there in 2 weeks, simplify your project
-
-### Week 12: Thursday, April 13, 2017
+	- Read [Physical Computing’s Greatest Hits (and
+		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
+		think about whether the your project is doing something in a meaningful or
+		unique way. 
 
 ### Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project (MVP)
@@ -534,6 +533,7 @@ you. If you have no idea, create the first circuit on
 
 ### Week 14: Thursday, April 27, 2017
 - Final project critique
+- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 
 ### Week 15: Thursday, May 4, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
