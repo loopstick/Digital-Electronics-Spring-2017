@@ -520,16 +520,18 @@ you. If you have no idea, create the first circuit on
 
 #### current homework assignment
 -	Homework
-	- Minimal Viable Project is due April 21
-		- If you don't think you can get there in 2 weeks, simplify your project
 	- Read [Physical Computing’s Greatest Hits (and
 		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
 		think about whether the your project is doing something in a meaningful or
-		unique way. 
+		unique way. Will someone want to play with your project for longer than 
+		5 seconds? Why or why not?
+	- Minimal Viable Project is due April 21
+		- Simplify your project if necessary
+		- If it is too simple you will have one week to add complexity
 
 ### Week 13: Thursday, April 21, 2017
 - Demonstrate working minimal viable project (MVP)
-- Homework: Refine
+- Homework: Refine and add complexity if necessary
 
 ### Week 14: Thursday, April 27, 2017
 - Final project critique
