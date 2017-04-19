@@ -525,11 +525,11 @@ you. If you have no idea, create the first circuit on
 		think about whether the your project is doing something in a meaningful or
 		unique way. Will someone want to play with your project for longer than 
 		5 seconds? Why or why not?
-	- Minimal Viable Project is due April 21
+	- Minimal Viable Project is due April 20
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
-### Week 13: Thursday, April 21, 2017
+### Week 13: Thursday, April 20, 2017
 - Demonstrate working minimal viable project (MVP)
 - Homework: Refine and add complexity if necessary
 
