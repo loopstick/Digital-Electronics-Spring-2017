@@ -531,7 +531,10 @@ you. If you have no idea, create the first circuit on
 
 ### Week 13: Thursday, April 20, 2017
 - Demonstrate working minimal viable project (MVP)
-- Homework: Refine and add complexity if necessary
+- Schedule:
+	- Interface show May 6
+	- If not participating in Interface Show, then deadline is April 27
+	- Writeup due May 8 9am
 
 ### Week 14: Thursday, April 27, 2017
 - Final project critique
