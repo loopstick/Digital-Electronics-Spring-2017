@@ -1,7 +1,7 @@
 # Digital-Electronics-Spring-2017
 ## Digital Electronics at California College of the Arts, Spring 2017 
 
-[Current Homework Assignment](#current-homework-assignment)
+[End of Semester schedule](#end-of-semester-schedule)
 
 ### Syllabus
 
@@ -531,10 +531,23 @@ you. If you have no idea, create the first circuit on
 
 ### Week 13: Thursday, April 20, 2017
 - Demonstrate working minimal viable project (MVP)
-- Schedule:
-	- Interface show May 6
-	- If not participating in Interface Show, then deadline is April 27
-	- Writeup due May 8 9am
+
+### End of Semester Schedule
+- April 27: Final projects: Critique and deadline unless participating in
+	Interface Show
+- Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
+- Saturday May 6 at 4pm: Deadline for Interface Show installation
+- May 6 Interface show 
+- Project writeup due May 8 9am, all on Github
+	- Describe goals of project briefly
+	- Describe how, from a technical point of view, your choice of hardware
+		and software achieves that goal
+	- Accurate schematic
+	- Program(s) must be well commented 
+		- Each variable must have a meaningful name
+		- Each section (function, code block, loop, whatever) must be explained
+		- All unused variables and code must be removed (debugging code
+			commented out may remain)
 
 ### Week 14: Thursday, April 27, 2017
 - Final project critique
