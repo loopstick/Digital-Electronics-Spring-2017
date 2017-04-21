@@ -550,8 +550,8 @@ you. If you have no idea, create the first circuit on
 			commented out may remain)
 
 ### Week 14: Thursday, April 27, 2017
-- Final project critique
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
+- Final project critique
 
 ### Week 15: Thursday, May 4, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
