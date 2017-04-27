@@ -532,32 +532,50 @@ you. If you have no idea, create the first circuit on
 ### Week 13: Thursday, April 20, 2017
 - Demonstrate working minimal viable project (MVP)
 
-### End of Semester Schedule
-- April 27: Final projects: Critique and deadline unless participating in
-	Interface Show
-- Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
-- Saturday May 6 at 4pm: Deadline for Interface Show installation
-- May 6 Interface show 
+### Week 14: Thursday, April 27, 2017
+- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
+- Review end of semester schedule 
+- Review Interface Show spreadsheet
+- Interface Show Plaque
+- Review final project writeup
+- Final project critique
+- Work, Debug, and get help
+
+### Homework: Project writeup
 - Project writeup due May 8 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
 	- Accurate schematic
+	- Parts list (major or unique parts, not LEDs, wire, etc.)
+	- A few pictures of overall project plus some close ups of the electronics
+		and any mechanism (cellphone is fine) 
+	- A short video (cellphone is fine) of the operational project
 	- Program(s) must be well commented 
 		- Each variable must have a meaningful name
 		- Each section (function, code block, loop, whatever) must be explained
 		- All unused variables and code must be removed (debugging code
 			commented out may remain)
+- If you are participating in the Interface Show and have any parts checked
+	out from the Hybrid Lab you may give them to me after the show (with your
+	name somehow attached) and I will return them for you, if you wish.
 
-### Week 14: Thursday, April 27, 2017
-- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
-- Final project critique
+### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
 
-### Week 15: Thursday, May 4, 2017
+### Monday May 1 - Saturday May 6: Interface Show Installation
+
+### Week 15: Thursday, May 2, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
-### Interface show, Saturday May 6th
+### Saturday May 6 at 4pm: Deadline for project installation for Interface Show
 
+### Interface show, Oliver Art Center on the Oakland campus of CCA on Saturday May 6, 7-9:30PM
+
+### Sunday May 7: Interface Show de-installation
+
+### Monday May 8 at 9am: Project writeup due 
+
+## Student Repositories
 ## Student Repositories
 
 [Veena Ramachandran](https://github.com/veenaram29/Electronics_Veena.git)  
