@@ -193,7 +193,7 @@ The schedule is subject to change
 	[here](https://github.com/michaelshiloh/resourcesForClasses)
 - Homework
 - Review the Basic Arduino
-	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	(tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop]
 	we did in class. 
 	- Read the entire document
 	- Do the section titled _analogWrite(): Controlling speed or brightness_
